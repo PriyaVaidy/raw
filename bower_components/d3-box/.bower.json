@@ -1,0 +1,13 @@
+{
+  "name": "d3-box",
+  "_cacheHeaders": {
+    "ETag": "W/\"fdabdfa390a91a243532e55f506c583f43cd13381b4f740d88df91467960a09d\"",
+    "Content-Length": "2083",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"fdabdfa",
+  "main": "index.js",
+  "_source": "https://gist.githubusercontent.com/mikima/28d130bd380fd9be113c7040315ec036/raw/ffc793f4843311dc6a898715eec2c4492c86aeb3/box.js",
+  "_target": "*",
+  "_originalSource": "https://gist.githubusercontent.com/mikima/28d130bd380fd9be113c7040315ec036/raw/ffc793f4843311dc6a898715eec2c4492c86aeb3/box.js"
+}
